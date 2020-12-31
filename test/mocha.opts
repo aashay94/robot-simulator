@@ -1,0 +1,7 @@
+--full-trace
+--check-leaks
+--recursive
+
+--require test/bootstrap.js
+
+test/**/*.spec.js
